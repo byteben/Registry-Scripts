@@ -1,3 +1,18 @@
+<#	
+	===========================================================================
+	 Created on:   	04/03/2020 07:08
+	 Created by:   	Ben Whitmore
+	 Organization: 	
+     Filename:     	setup_remove_registry.ps1
+     
+     Credit: Kris Powell @ https://www.pdq.com/blog/modifying-the-registry-of-another-user/
+    ===========================================================================
+    
+    Version:
+    1.0.0   04/03/2020  Ben Whitmore
+    Initial Release
+#>
+
 #Define Registry Keys to delete for each user
 $RegistryKeys = @(
     "\Software\Key 1\SubKey 1"

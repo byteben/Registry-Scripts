@@ -3,7 +3,9 @@
 	 Created on:   	04/03/2020 07:08
 	 Created by:   	Ben Whitmore
 	 Organization: 	
-	 Filename:     	setup_add_registry.ps1
+     Filename:     	setup_add_registry.ps1
+     
+     Credit: Kris Powell @ https://www.pdq.com/blog/modifying-the-registry-of-another-user/
     ===========================================================================
     
     Version:
